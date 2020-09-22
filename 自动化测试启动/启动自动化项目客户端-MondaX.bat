@@ -1,0 +1,1 @@
+CD ../AutomaticTestClient&&python ourTest_client.py 用户ID XM1598951424223 0

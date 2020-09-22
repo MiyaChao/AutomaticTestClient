@@ -1,0 +1,1 @@
+CD ../AutomaticTestClient&&python ourTest_client.py YH1598949284530 XM1598949386052 0
